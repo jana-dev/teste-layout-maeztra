@@ -1,0 +1,17 @@
+.vtex-menu{
+    display: flex;
+    height: 291px;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 40px 484px 0 484px;
+    justify-content: space-between;
+}
+
+.vtex-menu H4{
+    font-size: 16px;
+    font-weight: 700;
+}
+.vtex-menu ul li{
+    margin: 24px 0px;
+    list-style-type: none;
+}

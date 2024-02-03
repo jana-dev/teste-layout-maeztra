@@ -1,0 +1,49 @@
+.footer-end{
+    height: 85px;
+    display: flex;
+    padding: 0 161px;
+    align-items: center;
+    background-color: #353535;
+    justify-content: space-between;
+}
+
+.social{
+    display: flex;
+}
+.social ul{
+    display: flex;
+}
+.social ul li{
+    list-style-type: none;
+}
+.social ul li a{
+    color: #fff;
+    margin-right: 24px;
+}
+
+.payments{
+    display: flex;
+}
+.payments ul{
+    display: flex;
+}
+.payments ul li{
+    color: #fff;
+    font-size: 32px;
+    margin-right: 24px;
+    list-style-type: none;
+}
+
+.powered{
+    display: flex;
+}
+
+.powered ul{
+    display: flex;
+}
+
+.powered ul li{
+    height: 50px;
+    color: #fff;
+    list-style-type: none;
+}

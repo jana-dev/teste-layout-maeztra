@@ -1,0 +1,25 @@
+.tip{
+    height: 64px;
+    display: flex;
+    max-width: 308px;
+    padding: 16px 27px;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+}
+.tip-icon{
+    margin-right: 22px;
+}
+.tip-icon button{
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+.content-title{
+    font-size: 14px;
+    font-weight: 700;
+}
+.content-text{
+    font-size: 14px;
+}

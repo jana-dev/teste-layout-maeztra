@@ -1,0 +1,12 @@
+.tipbar{
+    width: 100%;
+}
+.tipbar-title{
+    margin: 24px 0 16px 0;
+    text-align: center;
+}
+.tipbar-items{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

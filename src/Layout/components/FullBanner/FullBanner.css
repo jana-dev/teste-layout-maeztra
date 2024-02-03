@@ -1,0 +1,46 @@
+.full-banner{
+    height: 600px;
+    background-image: url('../../../assets/fullbanner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 0px 161px;
+}
+.arrows{
+    top: 50%;
+    left: 161px;
+    right: 161px;
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+}
+.arrows svg{
+    color: #353535;
+}
+.nav-dots{
+    bottom: 0;
+    left: 50%;
+    position: absolute;
+}
+.nav-dots svg{
+    color: #FAA500;
+}
+.text-banner{
+    display: flex;
+    flex-direction: column;
+    padding-left: 161px;
+    padding-top: 151px;
+}
+.text-banner h3{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.text-banner span{
+    width: 467px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 32px;
+}

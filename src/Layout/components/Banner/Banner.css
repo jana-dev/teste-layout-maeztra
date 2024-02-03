@@ -1,0 +1,17 @@
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 480px;
+    margin-top: 80px;
+}
+.banner-text{
+    max-width: 420px;
+    margin-right: 64px;
+}
+.image-banner{
+    background-image: url('../../../assets/banner2.png');
+    background-size: cover;
+    width: 1114px;
+    height: 480px;
+}   

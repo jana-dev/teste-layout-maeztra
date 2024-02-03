@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-promo{
+    background-color: #353535;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-promo span{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+}

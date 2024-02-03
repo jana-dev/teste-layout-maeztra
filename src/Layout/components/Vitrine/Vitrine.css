@@ -1,0 +1,27 @@
+.vitrine{
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+}
+.vitrine-items{
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    justify-content: space-between;
+}
+.vitrine h4{
+    color: #353535;
+    font-weight: 700;
+    font-size: 32px;
+    margin: 80px 0 24px 0;
+}
+
+.vitrine > .arrows{
+    left: 0;
+    top: 55%;
+    right: -6px;
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+}
